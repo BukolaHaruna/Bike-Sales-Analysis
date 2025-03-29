@@ -1,4 +1,4 @@
-# Bike-Sales-Analysis
+# Bike Sales Analysis
 
 The Bike Sales Dashboard provides insights into customer purchasing behavior based on income, age, gender, commute distance, education, marital status, and region. 
 
