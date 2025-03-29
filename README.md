@@ -11,9 +11,9 @@ The Bike Sales Dashboard provides insights into customer purchasing behavior bas
 # Summary of each chart in the Bike Sales Dashboard:
 - Average Income Per Purchase <br />
   Customers with higher incomes are more likely to purchase bikes. Males have a higher average income than females, and buyers tend to earn more than non-buyers.
-- Purchase by Age Brackets
+- Purchase by Age Brackets <br />
   Middle-aged customers have the highest bike purchase rates, while younger and older customers buy fewer bikes. However, non-buyers follow a similar trend across all age groups.
-- Customer Commute
+- Customer Commute <br />
   Most bike purchases happen among customers with short commute distances (0-1 miles). As the distance increases, the likelihood of purchasing a bike decreases.
-- Filters
+- Filters <br />
   These slicers allow users to filter the data based on marital status, education level, and region to observe trends and variations in bike purchases.
